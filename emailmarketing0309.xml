@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed>
+    <entry>
+        <product_id>327</product_id>
+        <id>338</id>
+        <product_sku>G41P5JF6H1DC100</product_sku>
+        <mpn />
+        <gtin>7798346202778</gtin>
+        <title>Notebook Max L4 i5*</title>
+        <brand>Banghó</brand>
+        <categories />
+        <product_type>Laptops > Notebooks > Max</product_type>
+        <description_attributes>
+	<![CDATA[ <ul style="padding-left:15px; margin:0px;">
+    	<li>14" HD</li>
+        <li>Intel® Core™ i5-1135G7</li>
+        <li>8GB RAM</li>
+        <li>SSD 240GB</li>
+        <li>Windows 11 Home</li>
+        <li>Garantía 1 año</li>
+      	</ul> ]]
+        </description_attributes>
+        <description>Notebook Banghó Max L4 i5, podrás llevar tus archivos y documentos a todos
+            lados
+            gracias a su peso ligero y tamaño reducido sin perder prestaciones, pantalla de 14
+            pulgadas
+            HD para visualización completa y Windows 11.</description>
+        <condition>new</condition>
+        <link>https://www.bangho.com.ar/notebook-max-l4-i5-windows-11i5-1135g7/p</link>
+        <image_link>
+            https://bangho.vteximg.com.br/arquivos/ids/160924/notebook-Max-L4-i1-windows-11---copia.jpg?v=637811448626200000</image_link>
+        <availability>in_stock</availability>
+        <price><![CDATA[
+            <span style="text-decoration: line-through;">
+                $1.199.999
+            </span>
+        ]]></price>
+        <custom_label_1><![CDATA[
+            <table width="70" border="0" align="left" cellpadding="0" cellspacing="0" style="background-color: #cd2f45; border-radius: 15px;">
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" style="line-height: 14px; font-size: 12px; font-family: Verdana, Arial, sans-serif; color: #FFFFFF; padding: 7px;">
+                            15% OFF
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        ]]></custom_label_1>   
+        <sale_price>$1.019.999</sale_price>
+        <amount>$85.000</amount>
+        <months>12 cuotas de </months>
+        <custom_label_2>$866.999</custom_label_2>
+        <custom_label_3>15 % off</custom_label_3>
+        <custom_label_4>Ahorrás $ $153.000</custom_label_4>
+    </entry>
+    <entry>
+        <product_id>513</product_id>
+        <id>524</id>
+        <product_sku>E77E4KFEI2ACXX8HXC10</product_sku>
+        <mpn/>
+        <gtin>7798346203263</gtin>
+        <title>All In One Lite E27 i3</title>
+        <brand>Banghó</brand>
+        <categories/>
+        <product_type>Desktops > All in one > Lite</product_type>
+        <description_attributes><ul style="padding-left:15px; margin:0px;"><li>27" Full HD</li><li>Intel® Core™ i3-12100</li><li>8GB RAM</li><li>SSD 480GB</li><li>Gráficos UHD Intel® 730</li><li>Windows 11 Home</li><li>Garantía 1 año</li></ul></description_attributes>
+        <description>All In One Banghó Lite E27 I3, ofrece la mejor experiencia visual con resolución Full HD de 27". Equipado con un Procesador Intel Core i3 de 12ava Generación, 8GB de RAM, disco sólido de 480Gb y Windows 11 Home.</description>
+        <condition>new</condition>
+        <link>https://www.bangho.com.ar/all-in-one-lite-e27-27-fhd-intel-core-i3-8gb-480gb-ssd-windows-11/p</link>
+        <image_link>https://bangho.vteximg.com.br/arquivos/ids/161295/bgho_lite_27_Teclado-mouse-w11-1.jpg?v=638053482889570000</image_link>
+        <availability>in_stock</availability>
+        <!--  Se oculta el campo "price" por no tener descuento  -->
+        <!--  porcentaje % de descuento estandar del producto  -->
+        <!--  Se oculta el campo "custom_label_1" por no tener descuento  -->
+        <sale_price>$1.499.999</sale_price>
+        <!--  Valor y cantidad de cuotas  -->
+        <amount>$125.000</amount>
+        <months>12 cuotas de </months>
+        <!--  PVP del producto en 1 pago  -->
+        <custom_label_2>1 pago de $1.274.999</custom_label_2>
+        <!--  porcentaje % de descuento en 1 pago  -->
+        <custom_label_3>15% off</custom_label_3>
+        <!--  monto $ de descuento en 1 pago  -->
+        <custom_label_4>Ahorrás 225.000</custom_label_4>
+        </entry>
+    <entry>
+        <product_id>497</product_id>
+        <id>508</id>
+        <product_sku>221V8/77</product_sku>
+        <mpn />
+        <gtin>8712581787394</gtin>
+        <title>Monitor Philips 22 Pulgadas FHD</title>
+        <brand>Philips</brand>
+        <categories />
+        <product_type>Accesorios > Monitores</product_type>
+        <description_attributes>
+            <ul style="padding-left:15px; margin:0px;">
+                <li>21,5 Pulgadas</li>
+                <li>1920 x 1080 HD</li>
+                <li>HDMI - VGA</li>
+                <li>VESA 100</li>
+                <li>Garantía 1 año</li>
+            </ul>
+        </description_attributes>
+        <description>Imágenes LED fantásticas con colores vivos. Disfrutá de imágenes LED realistas
+            en
+            esta pantalla Philips que está equipada con HDMI, lo que la convierte en una opción
+            fantástica. HDMI Ready para el entretenimiento en FHD. Tecnología LED para disfrutar de
+            colores más nítidos. Pantalla ecológica sin mercurio.</description>
+        <condition>new</condition>
+        <link>https://www.bangho.com.ar/monitor-philips-22-pulgadas-fhd/p</link>
+        <image_link>
+            https://bangho.vteximg.com.br/arquivos/ids/161197/Monitor-Philips-221V8-77-21.5-1.jpg?v=638004141157100000</image_link>
+        <availability>in_stock</availability>
+        <price>$177.199</price>
+        <custom_label_1><![CDATA[
+            <span style="background-color: #cd2f45; border-radius: 30px; color: #ffffff; display: inline-block; font-family: Verdana, Arial, sans-serif; font-size: 10px; line-height: 25px; text-align: center; text-decoration: none; width: 65px; -webkit-text-size-adjust: none; mso-hide: all;">
+                25% OFF
+            </span>
+        ]]></custom_label_1>
+        
+        <sale_price>$132.899</sale_price>
+        <amount>$132.899</amount>
+        <months>1</months>
+        <custom_label_2>1 pago de $112.964</custom_label_2>
+        <custom_label_3>15% off</custom_label_3>
+        <custom_label_4>Ahorrás 19.935</custom_label_4>
+    </entry>
+    <entry />
+</feed>
