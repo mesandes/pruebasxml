@@ -2896,7 +2896,7 @@ El interior es acolchonado y muy suave con una tela "peluche" para evitar que la
       <custom_label_3>15% off</custom_label_3>
       <!-- monto $ de descuento en 1 pago -->
       <custom_label_4>Ahorrás $210.000</custom_label_4>
-    </entry_mayor_descuentos>
+    </entry_mayor_descuento>
     <entry_mayor_descuento>
       <product_id>706</product_id>
       <id>703</id>
